@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Create Lead Link (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter Company Name TestLeaf (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter First Name Sethu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter Last Name Mathavan (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Create Lead Link (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Create Lead Button (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify the First Name Sethu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter Company Name TestLeaf (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter First Name Sethu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter Last Name Mathavan (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Select Source Conference (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Select Marketing Campaign Automobile (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter Phone Number 9234834838 (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Create Lead Button (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify the First Name Sethu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Find Leads Link (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">In Find Leads, Enter First Name Sethu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Find Leads Button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click CRMSFA (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click First Matching Lead (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Delete Lead Button (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Find Leads Link (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">In Find Leads, Enter First Name Babu (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Find Leads Button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click First Matching Lead (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Delete Lead Button (PASSED : 1s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42320" started-at="2017-10-14T10:25:02Z" finished-at="2017-10-14T10:25:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42320" started-at="2017-10-14T10:25:02Z" finished-at="2017-10-14T10:25:44Z">
+      <class name="runner.TestNgRunner">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeSuite" is-config="true" duration-ms="513" started-at="2017-10-14T15:55:01Z" finished-at="2017-10-14T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeTest" is-config="true" duration-ms="2" started-at="2017-10-14T15:55:02Z" finished-at="2017-10-14T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.TestNgRunner@5e853265]" name="setUpClass" is-config="true" duration-ms="431" started-at="2017-10-14T15:55:02Z" finished-at="2017-10-14T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:02Z" finished-at="2017-10-14T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="runFeature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.TestNgRunner@5e853265]" name="runFeature" duration-ms="18372" started-at="2017-10-14T15:55:02Z" data-provider="scenarios" finished-at="2017-10-14T15:55:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create Lead Using Mandatory Fields(Positive)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create Lead"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Create Lead Link (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter Company Name TestLeaf (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter First Name Sethu (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter Last Name Mathavan (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Create Lead Button (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify the First Name Sethu (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runFeature -->
+        <test-method status="PASS" signature="runFeature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.TestNgRunner@5e853265]" name="runFeature" duration-ms="23781" started-at="2017-10-14T15:55:02Z" data-provider="scenarios" finished-at="2017-10-14T15:55:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create Lead Using Mandatory + Optional Fields(Positive)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create Lead"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Create Lead Link (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter Company Name TestLeaf (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter First Name Sethu (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter Last Name Mathavan (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Select Source Conference (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Select Marketing Campaign Automobile (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter Phone Number 9234834838 (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Create Lead Button (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify the First Name Sethu (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runFeature -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:02Z" finished-at="2017-10-14T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:21Z" finished-at="2017-10-14T15:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:21Z" finished-at="2017-10-14T15:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="runFeature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.TestNgRunner@5e853265]" name="runFeature" duration-ms="18470" started-at="2017-10-14T15:55:21Z" data-provider="scenarios" finished-at="2017-10-14T15:55:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Delete Lead (Positive)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Delete Lead"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Click CRMSFA (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Find Leads Link (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">In Find Leads, Enter First Name Sethu (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Find Leads Button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click First Matching Lead (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Delete Lead Button (PASSED : 2s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runFeature -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:26Z" finished-at="2017-10-14T15:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="runFeature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runner.TestNgRunner@5e853265]" name="runFeature" duration-ms="18032" started-at="2017-10-14T15:55:26Z" data-provider="scenarios" finished-at="2017-10-14T15:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Delete Lead (Positive)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Delete Lead"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Click CRMSFA (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Leads (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Find Leads Link (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">In Find Leads, Enter First Name Babu (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Find Leads Button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click First Matching Lead (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Delete Lead Button (PASSED : 1s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runFeature -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:26Z" finished-at="2017-10-14T15:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:39Z" finished-at="2017-10-14T15:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-10-14T15:55:44Z" finished-at="2017-10-14T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.TestNgRunner@5e853265]" name="tearDownClass" is-config="true" duration-ms="11" started-at="2017-10-14T15:55:44Z" finished-at="2017-10-14T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-10-14T15:55:44Z" finished-at="2017-10-14T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:runner.TestNgRunner@5e853265]" name="afterSuite" is-config="true" duration-ms="293" started-at="2017-10-14T15:55:44Z" finished-at="2017-10-14T15:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- runner.TestNgRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
